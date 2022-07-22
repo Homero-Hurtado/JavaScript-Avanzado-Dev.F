@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "consumiendo nuestra primera API",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "Homero Hurtado",
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {}
 }
